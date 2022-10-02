@@ -2,9 +2,7 @@
 
 FORKED FROM LIQUITY PROTCOL
 
-<a href="https://www.defisafety.com/pqrs/376"><img src="https://defi-safety.s3.amazonaws.com/Real_Badge_78e39d44ca.png" alt="DeFiSafetyBadge" align="right" style="width:228px;height:76px;"></a>
-
-![Tests](https://github.com/Real/dev/workflows/CI/badge.svg) [![Frontend status](https://img.shields.io/uptimerobot/status/m784948796-056b56fd51c67d682c11bb24?label=Testnet&logo=nginx&logoColor=white)](https://devui.Real.org) [![Discord](https://img.shields.io/discord/700620821198143498?label=join%20chat&logo=discord&logoColor=white)](https://discord.gg/AaMgr6Rm) 
+ [![Discord](https://img.shields.io/discord/700620821198143498?label=join%20chat&logo=discord&logoColor=white)](https://discord.gg/6qGAkGZGpb) 
 
 
 Real is a decentralized protocol that allows Ether holders to obtain maximum liquidity against
@@ -1772,11 +1770,11 @@ There are no official frontend operators, and the use of any frontend is made by
 
 User is solely responsible for complying with applicable law when interacting (in particular, when using ETHW, USDW, REALP or other Token) with the Real Protocol Software whatsoever. 
 <<<<<<< HEAD
-#   D e v 
- 
- #   D e v 
- 
- 
+#� �D�e�v�
+�
+�#� �D�e�v�
+�
+�
 =======
 #� �D�e�v�
 �
@@ -1784,5 +1782,6 @@ User is solely responsible for complying with applicable law when interacting (i
 �
 �
 >>>>>>> 076ae97403c809c38a26abc7129b58a9f9477b13
-#   R e a l - u s d w  
- 
+#� �R�e�a�l�-�u�s�d�w�
+�
+�
